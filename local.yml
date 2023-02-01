@@ -1,3 +1,6 @@
+---
+# This playbook runs a basic command.
+
 - host: localhost
   connection: local
   become: true
