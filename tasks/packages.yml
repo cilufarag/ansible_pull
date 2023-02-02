@@ -5,3 +5,4 @@
       - htop
       - mc
       - tmux
+      - iputils-ping
